@@ -1,0 +1,42 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg*
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+cover
+cover-master
+.tox
+.stestr/
+.venv
+.idea
+
+# Functional test
+functional-tests.log
+functional_creds.conf
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+.idea
